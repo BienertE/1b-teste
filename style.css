@@ -8,7 +8,13 @@
 .subtitulo{
     border: solid blue 5px;
 }
+#link{
+    color:gold 
+    text-decoration: none;
+} 
+
+
 #link:hover{
     color: chartreuse;
-    text-decoration: none;
+    
 } 
