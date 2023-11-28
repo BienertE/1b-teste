@@ -9,13 +9,13 @@
     border: solid blue 5px;
 }
 #link{
-    color:gold 
+    color:gold; 
 text-decoration: none;
 } 
 
 
 #link:hover{
     color: chartreuse;
-    
+
     
 } 
